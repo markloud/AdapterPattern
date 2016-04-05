@@ -45,7 +45,7 @@ namespace DoFactory.GangOfFour.Adapter.Structural
         /// <summary>
         /// Entry point into console application.
         /// </summary>
-        static void Main()
+        static void Main() 
         {
             // Create adapter and place a request
             ITarget target = new Adapter();
